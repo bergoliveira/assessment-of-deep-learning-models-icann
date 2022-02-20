@@ -1,6 +1,6 @@
 # disciplinaDL
 Projeto para disciplina Deep Learning, Cin 2021.2
-(autalizado: 16/11/2022)
+(atualizações: 16/02, 20/02/2022)
 
 Datasets:
 - Lener 
