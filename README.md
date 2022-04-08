@@ -1,4 +1,4 @@
-# disciplinaDL
+# On the Assessment of Deep Learning Models for Named Entity Recognition of Brazilian Legal Documents
 Source-code utilizado para o artigo "On the Assessment of Deep Learning Models for Named Entity Recognition of Brazilian Legal Documents"
 (em desenvolvimento).
 
