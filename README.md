@@ -1,9 +1,9 @@
 # disciplinaDL
-Projeto para disciplina Deep Learning, Cin 2021.2
-(atualizações: 16/02, 20/02/2022)
+Source-code utilizado para o artigo "On the Assessment of Deep Learning Models for Named Entity Recognition of Brazilian Legal Documents"
+(em desenvolvimento).
 
-Datasets:
+Datasets utilizados:
 - Lener 
   - https://huggingface.co/datasets/lener_br
   - https://github.com/peluz/lener-br/tree/master/model/data
-- PL_Corpus: https://huggingface.co/datasets/bergoliveira/pl_corpus
+- PL_Corpus: https://huggingface.co/datasets/bergoliveira/pl-corpus
