@@ -1,6 +1,4 @@
-# On the Assessment of Deep Learning Models for Named Entity Recognition of Brazilian Legal Documents
-Source-code utilizado para o artigo "On the Assessment of Deep Learning Models for Named Entity Recognition of Brazilian Legal Documents"
-(em desenvolvimento).
+Source-code utilizado para a disciplina "Deep Learning", Cin 2021.2, utilizando Named Entity Recognition (NER).
 
 Datasets utilizados:
 - Lener 
